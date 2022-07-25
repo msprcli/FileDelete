@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "文件删除demo", "文件删除demo.csproj", "{2D6CBBA4-9C7A-4B0E-8732-7CF2A4144620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D6CBBA4-9C7A-4B0E-8732-7CF2A4144620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D6CBBA4-9C7A-4B0E-8732-7CF2A4144620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D6CBBA4-9C7A-4B0E-8732-7CF2A4144620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D6CBBA4-9C7A-4B0E-8732-7CF2A4144620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B817DDD-58B3-4FE4-BA8B-46D98CF3D7C5}
+	EndGlobalSection
+EndGlobal
